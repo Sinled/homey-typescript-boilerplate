@@ -10,5 +10,5 @@ replace `js` files with `ts`
 
 ### Debug
 
-Add `INSPECT` variable to `env.json file`
+Add `INSPECT` variable to `env.json file`, and create correct configuration in webstorm ("Attach to node/chrome on correct port)
 
